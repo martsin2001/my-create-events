@@ -1,0 +1,285 @@
+{
+  "SectionPlaces": [
+    {
+      "numberSection": 1,
+      "arrayWidthPlaces": [
+        {
+          "nameRow": "A",
+          "arrWithChair": [
+            {
+              "seat": 1,
+              "selected": false,
+              "id": 1
+            },
+            {
+              "seat": 2,
+              "selected": false,
+              "id": 2
+            },
+            {
+              "seat": 3,
+              "selected": false,
+              "id": 3
+            },
+            {
+              "seat": 4,
+              "selected": false,
+              "id": 4
+            },
+            {
+              "seat": 5,
+              "selected": false,
+              "id": 5
+            },
+            {
+              "seat": 6,
+              "selected": false,
+              "id": 6
+            },
+            {
+              "seat": 7,
+              "selected": false,
+              "id": 7
+            },
+            {
+              "seat": 8,
+              "selected": false,
+              "id": 8
+            },
+            {
+              "seat": 9,
+              "selected": false,
+              "id": 9
+            },
+            {
+              "seat": 10,
+              "selected": false,
+              "id": 10
+            }
+          ]
+        },
+        {
+          "nameRow": "B",
+          "arrWithChair": [
+            {
+              "seat": 1,
+              "selected": false,
+              "id": 11
+            },
+            {
+              "seat": 2,
+              "selected": false,
+              "id": 12
+            },
+            {
+              "seat": 3,
+              "selected": false,
+              "id": 13
+            },
+            {
+              "seat": 4,
+              "selected": false,
+              "id": 14
+            },
+            {
+              "seat": 5,
+              "selected": false,
+              "id": 15
+            },
+            {
+              "seat": 6,
+              "selected": false,
+              "id": 16
+            },
+            {
+              "seat": 7,
+              "selected": false,
+              "id": 17
+            },
+            {
+              "seat": 8,
+              "selected": false,
+              "id": 18
+            },
+            {
+              "seat": 9,
+              "selected": false,
+              "id": 19
+            },
+            {
+              "seat": 10,
+              "selected": false,
+              "id": 20
+            }
+          ]
+        },
+        {
+          "nameRow": "C",
+          "arrWithChair": [
+            {
+              "seat": 1,
+              "selected": false,
+              "id": 21
+            },
+            {
+              "seat": 2,
+              "selected": false,
+              "id": 22
+            },
+            {
+              "seat": 3,
+              "selected": false,
+              "id": 23
+            },
+            {
+              "seat": 4,
+              "selected": false,
+              "id": 24
+            },
+            {
+              "seat": 5,
+              "selected": false,
+              "id": 25
+            },
+            {
+              "seat": 6,
+              "selected": false,
+              "id": 26
+            },
+            {
+              "seat": 7,
+              "selected": false,
+              "id": 27
+            },
+            {
+              "seat": 8,
+              "selected": false,
+              "id": 28
+            },
+            {
+              "seat": 9,
+              "selected": false,
+              "id": 29
+            },
+            {
+              "seat": 10,
+              "selected": false,
+              "id": 30
+            }
+          ]
+        },
+        {
+          "nameRow": "D",
+          "arrWithChair": [
+            {
+              "seat": 1,
+              "selected": false,
+              "id": 31
+            },
+            {
+              "seat": 2,
+              "selected": false,
+              "id": 32
+            },
+            {
+              "seat": 3,
+              "selected": false,
+              "id": 33
+            },
+            {
+              "seat": 4,
+              "selected": false,
+              "id": 34
+            },
+            {
+              "seat": 5,
+              "selected": false,
+              "id": 35
+            },
+            {
+              "seat": 6,
+              "selected": false,
+              "id": 36
+            },
+            {
+              "seat": 7,
+              "selected": false,
+              "id": 37
+            },
+            {
+              "seat": 8,
+              "selected": false,
+              "id": 38
+            },
+            {
+              "seat": 9,
+              "selected": false,
+              "id": 39
+            },
+            {
+              "seat": 10,
+              "selected": false,
+              "id": 40
+            }
+          ]
+        },
+        {
+          "nameRow": "E",
+          "arrWithChair": [
+            {
+              "seat": 1,
+              "selected": false,
+              "id": 41
+            },
+            {
+              "seat": 2,
+              "selected": false,
+              "id": 42
+            },
+            {
+              "seat": 3,
+              "selected": false,
+              "id": 43
+            },
+            {
+              "seat": 4,
+              "selected": false,
+              "id": 44
+            },
+            {
+              "seat": 5,
+              "selected": false,
+              "id": 45
+            },
+            {
+              "seat": 6,
+              "selected": false,
+              "id": 46
+            },
+            {
+              "seat": 7,
+              "selected": false,
+              "id": 47
+            },
+            {
+              "seat": 8,
+              "selected": false,
+              "id": 48
+            },
+            {
+              "seat": 9,
+              "selected": false,
+              "id": 49
+            },
+            {
+              "seat": 10,
+              "selected": false,
+              "id": 50
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
